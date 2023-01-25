@@ -75,9 +75,6 @@
   <br>
 </h1>
 
-<h1 align="center">
-  Vogel
-</h1>
 <h4 align="center">Bird themed forum created using Laravel Framework.</h4>
 
 ![image](https://user-images.githubusercontent.com/94048851/206569737-8026f67e-6302-4633-8866-aefd0bba4a52.png)
